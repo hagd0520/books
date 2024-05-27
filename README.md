@@ -1,2 +1,2 @@
 # books
-FastAPI 프로젝트
+책 리뷰 api
